@@ -1,0 +1,6 @@
+ID,Name,Email,RegistrationNumber,Year,Department,Active,CreatedAt
+S001,John Doe,john@example.com,2023CSE001,2,Computer Science,true,2023-09-01T10:00:00
+S002,Jane Smith,jane@example.com,2023EEE001,1,Electronics,true,2023-09-01T10:05:00
+S003,Bob Johnson,bob@example.com,2023MEC001,3,Mechanical,true,2023-09-01T10:10:00
+S004,Alice Brown,alice@example.com,2023CIV001,4,Civil,true,2023-09-01T10:15:00
+S005,Charlie Wilson,charlie@example.com,2023CHE001,2,Chemical,false,2023-09-01T10:20:00

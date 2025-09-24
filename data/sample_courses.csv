@@ -1,0 +1,6 @@
+CourseID,CourseCode,Title,Description,Credits,Department,Semester,InstructorID,MaxEnrollment,CurrentEnrollment
+CS101,CS101,Introduction to Programming,Basic programming concepts using Java,3,Computer Science,Fall 2023,I001,50,0
+CS201,CS201,Data Structures,Advanced data structures and algorithms,4,Computer Science,Fall 2023,I001,40,0
+EE101,EE101,Circuit Analysis,Basic electrical circuit analysis,3,Electronics,Fall 2023,I002,45,0
+ME201,ME201,Thermodynamics,Principles of thermodynamics,3,Mechanical,Fall 2023,I003,35,0
+MATH101,MATH101,Calculus I,Differential and integral calculus,4,Mathematics,Fall 2023,I004,60,0
