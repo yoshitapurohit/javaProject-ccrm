@@ -8,7 +8,7 @@ The Campus Course & Records Manager (CCRM) is a comprehensive Java SE console-ba
 
 ### Core Functionality
 
-- **Student Management**: Create, update, view, search, and manage student records
+- **Student Management**: Create, update, view, search, and manage student records.
 - **Course Management**: Handle course creation, updates, and administration
 - **Enrollment System**: Manage student-course enrollments with credit limits and prerequisites
 - **Grade Management**: Record grades, calculate GPAs, and generate transcripts
