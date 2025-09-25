@@ -302,7 +302,7 @@ This project is developed for educational purposes and demonstrates Java program
 
 ---
 
-**Author**: gazal
+**Author**: Yoshita Purohit
 **Course**: Programming in Java
 **Date**: September 2025  
 **Version**: 1.0
